@@ -2,7 +2,7 @@
 
 An interactive Machine Learning web application built to assess patient heart disease risk based on clinical parameters. Deployed live using **Streamlit Cloud**.
 
-📌 **Live Web App:** [https://heart-health-ai.streamlit.app](https://heart-health-ai.streamlit.app) *(Replace with your exact Streamlit URL)*
+📌 **Live Web App:** [https://heart-health-ai.streamlit.app]([https://heart-health-ai.streamlit.app](https://heart-disease-assessment-ai.streamlit.app/)) *(Replace with your exact Streamlit URL)*
 
 ---
 
